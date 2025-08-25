@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+input="resume.md.tpl"
+output='Andrew-Hoyt-Resume.pdf'
+
+while getopts 'i:o:' opt; do
+    case $opt in
+        i) input="$OPTARG";;
+        o) output="$OPTARG";;
+        *) ;;
+    esac
+
+done
+
+tmp=$(mktemp 'XXXXXXXX.md')
+trap 'rm $tmp' EXIT
+
+uv run main.py -i "$input" -o "$tmp"
+pandoc "$tmp" -o "$output"
