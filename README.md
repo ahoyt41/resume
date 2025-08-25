@@ -1,7 +1,7 @@
 # Resume Generator
 
 The source code for generating my resume. The source text for the resume
-can be found in <./resume.md.tpl>. This file is rendered into a markdown file
+can be found in [resume.md.tpl](./resume.md.tpl). This file is rendered into a markdown file
 using jinja. The resulting markdown file is then converted into a PDF file
 using pandoc.
 
