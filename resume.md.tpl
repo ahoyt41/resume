@@ -61,25 +61,59 @@ September 2016 - May 2020
 
 ## Work Experience
 
+### RepuRate
+
+Software Engineering Consultant
+March 2025 - Present
+
+RepuRate is a software startup building a reputation verification system for
+online sellers / buyers. As a software consultant, I have been helping to build
+out their minimum viable product (MVP) platform written in django.
+
+### Last Wall
+
+Cloud Infrastructure Consultant
+October 2024 - January 2025
+
+At last wall, I was tasked with performing an audit of their AWS environment.
+I was able to help Last Wall reduce their overall spending by approximately 20%.
+
 ### AppTek
 
 Software Engineer  
 May 2022 - Present
+
+AppTek is software firm specializing in AI and machine learning applications
+for audio and language processing. At AppTek I wrote and maintained backend
+systems that interact with machine learning models for applications such as
+automatic speech recognition (ASR) and machine translation (MT).
 
 ### Upskill, Inc.
 
 Junior Software Engineer
 June 2020 - June 2021
 
+Upskill is a software firm specializing in augmented reality software for
+industrial use cases. At Upskill, I designed and implemented a load testing
+framework for testing the resilience of their MQTT and REST based infrastructure.
+
 ### Link Labs
 
 Quality Assurance Engineering Intern  
 June 2019 - January 2020
 
+Link Labs is a company  that develops computer network technology for business
+and industrial customers. At Link Labs I was quality assurance engineer. I was
+responsible for testing their symphony link gateways against various network
+conditions.
+
 ### Upskill Inc.
 
 Software Engineering Intern  
 June 2016 - August 2016
+
+As a software engineering intern at Upskill, I was tasked with creating
+a system for generating project templates for new services.
 
 ## Community Involvement
 

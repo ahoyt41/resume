@@ -16,4 +16,4 @@ tmp=$(mktemp 'XXXXXXXX.md')
 trap 'rm $tmp' EXIT
 
 uv run main.py -i "$input" -o "$tmp"
-pandoc "$tmp" -o "$output"
+pandoc --pdf-engine=pdfroff --toc-depth=1 "$tmp" -o "$output"
