@@ -8,7 +8,7 @@ ouput: pdf_document
 ## Contact
 
 - Phone: (202) 997-8310
-- Email: <andrew@ahoyt.tech>
+- Email: [ahoyt41@gmail.com](mailto:ahoyt41@gmail.com)
 - Github: <https://github.com/ahoyt41>
 
 Email is prefered. If calling, please leave a voicemail and I will respond as
@@ -61,10 +61,21 @@ September 2016 - May 2020
 
 ## Work Experience
 
+### Trimble
+
+Software Engineer
+December 2025 - Present
+
+As a member of the Trimble Cloud platform team I worked on trimble's
+identity and access management platform (IAM). A python monorepo that runs
+in a serverless AWS environment. My specialty on the team has been the research
+and implementation of production ready GraphQL resolvers that parody our REST
+APIs, allowing itegrators flexibility in their integration strategy.
+
 ### RepuRate
 
 Software Engineering Consultant
-March 2025 - Present
+March 2025 - March 2026
 
 RepuRate is a software startup building a reputation verification system for
 online sellers / buyers. As a software consultant, I have been helping to build
